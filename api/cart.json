@@ -1,0 +1,12 @@
+{
+  "cart": [
+    {
+      "id": 9,
+      "name": "Es coklat oreo",
+      "price": 14000,
+      "rating": "4.2(50)",
+      "quantity": 2,
+      "image": "https://unsplash.com/photos/4FujjkcI40g/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzczOTIz&force=true&w=640"
+    }
+  ]
+}
