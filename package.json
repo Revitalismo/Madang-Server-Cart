@@ -3,6 +3,6 @@
     "json-server": "^0.17.1"
   },
   "scripts": {
-    "start": "json-server --watch ./api/cart.json --port 3200"
+    "start": "json-server --watch ./api/cart.json --port 3000"
   }
 }
